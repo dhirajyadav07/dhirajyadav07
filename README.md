@@ -38,8 +38,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
   </a>
 
-  <!-- Stats images -->
+ 
+</div>
+ <!-- Stats images -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajyadav07&layout=compact" height="120"/>
   <img src="https://github-readme-stats.vercel.app/api?username=dhirajyadav07" height="120"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajyadav07" height="120"/>
-</div>
