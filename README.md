@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajyadav07&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajyadav07" /> </p>
 
-- 🔭 I’m currently working in Raghunandan Money (HFT Firm)**
+- 🔭 I’m currently working in **Raghunandan Money (HFT Firm)**
 
 - 👯 I’m looking to collaborate on **Qt creator Projects**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/dhiraj079/">
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
