@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajyadav07&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajyadav07" /> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working in Raghunandan Money (HFT Firm)**
 
 - 👯 I’m looking to collaborate on **Qt creator Projects**
 
